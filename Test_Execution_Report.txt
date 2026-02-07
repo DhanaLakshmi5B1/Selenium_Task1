@@ -1,8 +1,8 @@
 TEST EXECUTION REPORT
 
 Company: CODTECH IT SOLUTIONS
-Intern Name: Kandimalla Karthik
-Intern ID: CTIS2128
+Intern Name: Kandepu Dhana Lakshmi
+Intern ID: CTIS5249
 Task: Selenium Task-1
 Tool Used: Selenium WebDriver
 Browser: Mozilla Firefox
@@ -25,3 +25,4 @@ Result:
 User navigated to login page
 Status:
 PASS
+
