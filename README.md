@@ -4,6 +4,8 @@ Company: CODTECH IT SOLUTIONS
 Intern Name: Kandepu Dhana Lakshmi  
 Intern ID: CTIS5249  
 Domain: Software Testing  
+Duration: 4 Weeks  
+Mentor: Neela Santosh  
 
 PROJECT TITLE: Test Automation Using Selenium
 
@@ -17,7 +19,7 @@ The automation verifies:
 1. Successful login functionality  
 2. Navigation to the secure page after login  
 3. Proper execution without manual intervention  
-4. The task was completed as part of the CODTECH Internship Program  
+4. Completion of the task as part of the CODTECH Internship Program  
 
 ## Tools & Technologies Used
 - Programming Language: Python  
@@ -39,6 +41,14 @@ The automation verifies:
 - Logout from the application  
 - Print execution status in terminal  
 - Close the browser  
+
+## Files in Repository
+- login_navigation_test.py : Selenium script for login and logout automation  
+- Test_Execution_Report.txt : Test execution report  
+- SS1_CommandPrompt_Run.png  
+- SS2_Login_Success.png  
+- SS3_Logout_Success.png  
+- README.md  
 
 ## Conclusion
 The Selenium automation script successfully tested the login and navigation functionality of the sample web application.
